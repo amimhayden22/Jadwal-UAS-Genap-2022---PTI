@@ -5,6 +5,7 @@ Senin, 26 Desember 2022
 
 Selasa, 27 Desember 2022
 - Teori Pengembangan Aplikasi Mobile (13.00 - 15.00)
+Diganti project dengan deadline tanggal 6 januari 2023
 
 Rabu, 28 Desember 2022
 - Interaksi Manusia Komputer (07.30 - 09.30) 

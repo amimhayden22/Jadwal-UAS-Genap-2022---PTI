@@ -24,7 +24,7 @@ Selasa, 3 Januari 2023
 
 Rabu, 4 Januari 2023
 - Pendidikan Kewarganegaraan (13.00 - 15.00)
-(Take Home)
+Take Home
 
 Kamis, 5 Januari 2023
 - Tidak ada

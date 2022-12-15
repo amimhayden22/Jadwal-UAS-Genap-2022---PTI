@@ -8,7 +8,7 @@ Selasa, 27 Desember 2022
 Diganti project dengan deadline tanggal 6 januari 2023
 
 Rabu, 28 Desember 2022
-- Interaksi Manusia Komputer (07.30 - 09.30) Diganti presentasi tanggal 23 januari 2023
+- Interaksi Manusia Komputer (07.30 - 09.30) Diganti presentasi tanggal 23 Desember 2023
 
 Kamis, 29 Desember 2022
 - Tidak ada

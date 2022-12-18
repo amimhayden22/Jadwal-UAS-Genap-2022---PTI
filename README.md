@@ -1,7 +1,7 @@
 # Jadwal UAS Semester Genap 2022 - PTI
 
 Senin, 26 Desember 2022
-- Bahasa Inggris Teknik (13.00 - 15.00)
+- Bahasa Inggris Teknik (13.00 - 15.00) Udah selesai
 
 Selasa, 27 Desember 2022
 - Teori Pengembangan Aplikasi Mobile (13.00 - 15.00)
@@ -35,5 +35,5 @@ Jumat, 6 Januari 2023
 
 
 ## Note:
-- Pemodelan dan Simulasi belum ada di jadwal => diganti project
+- Pemodelan dan Simulasi belum ada di jadwal => diganti project dengan tenggat waktu tanggal 5 januari 2023
 - Pembelajaran Mikro belum ada di jadwal => tidak ada

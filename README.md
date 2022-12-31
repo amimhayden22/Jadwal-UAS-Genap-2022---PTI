@@ -14,7 +14,7 @@ Kamis, 29 Desember 2022
 - Tidak ada
 
 Jumat, 30 Desember 2022
-- Sosio-antropologi Pendidikan (09.30 - 11.30)
+- Sosio-antropologi Pendidikan (09.30 - 11.30) => Udah Selesai
 Bisa Luring, Bisa Take Home. Tinggal menghubungi dosen kembali.
 
 Senin, 2 Januari 2023
@@ -24,7 +24,7 @@ Selasa, 3 Januari 2023
 - Teori Scripting Language (09.30 - 11.30)
 
 Rabu, 4 Januari 2023
-- Pendidikan Kewarganegaraan (13.00 - 15.00)
+- Pendidikan Kewarganegaraan (13.00 - 15.00) => Udah Selesai
 Take Home
 
 Kamis, 5 Januari 2023
